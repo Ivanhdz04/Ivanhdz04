@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola 👋 Soy Iván
 
-<!--
-**Ivanhdz04/Ivanhdz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador | Vue | PrimeVue | Node | SQL | IA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mí
+- 💻 Me gusta construir sistemas web y herramientas internas
+- 🤖 Actualmente estoy aprendiendo y aplicando Inteligencia Artificial en proyectos reales
+- 📍 México
+- 📚 Me interesa automatización, dashboards y sistemas empresariales
+
+---
+
+## 🛠️ Tecnologías
+- Vue 3 / Vite
+- PrimeVue + Bootstrap
+- Node.js
+- SQL Server / MySQL
+- IA (automatización, flujos, asistentes, etc.)
+
+---
+
+## 📌 Proyectos
+- Sistema de inspecciones vehiculares
+- Sistema de préstamos
+- Dashboards en Tableau
+- Automatizaciones con IA (n8n, flujos, asistentes)
+
+---
+
+## 📫 Contacto
+- Email: ivanrdguez04@gmail.com
+- LinkedIn: www.linkedin.com/in/ivanhdz04
